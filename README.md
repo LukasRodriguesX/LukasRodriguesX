@@ -1,4 +1,4 @@
-## Hello, my Word! Lukas Rodrigeus here :D
+## Hello, my Word! Lukas Rodrigues here :D
 
 - 🚀 Hoje desenvolvo e crio sites com front-end
 - 📚 Estudando JavaScript, Vue.js e APIs
